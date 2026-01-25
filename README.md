@@ -1,16 +1,16 @@
 
 <div align=center>
 <h2 height="200px" align="center">Hey there👋, I'm Huang Penglong! A AI developer.</h2>
-<!-- <a href="https://huangpengl.github.io/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a>
+<!-- <a href="https://PenglongHuang.github.io/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a>
 <a href="https://leetcode.cn/u/coping_code/" target="blank">Leetcode: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Medium" height="30" width="40" /></a> -->
 
 <h2 height="200px" align="center">🏆 Github Profile</h2>
 
-<!-- <img width=800 src="https://github-profile-trophy.vercel.app/?username=huangPengL&column=9&theme=gruvbox&no-frame=true"/> -->
+<!-- <img width=800 src="https://github-profile-trophy.vercel.app/?username=PenglongHuang&column=9&theme=gruvbox&no-frame=true"/> -->
 
-![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangPengL&show_icons=true&theme=tokyonight)
+![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=PenglongHuang&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huangPengL&layout=compact&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenglongHuang&layout=compact&hide=html)
 
 <h2 height="200px" align="center">🛠 Languages and Tools</h2>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="bash" width="40" height="40"/></code>
